@@ -46,7 +46,6 @@ else
 
 	<link rel="canonical" href="https://appstack.bootlab.io/pages-sign-in.html" />
 	<link rel="shortcut icon" href="docs/img/favicon.ico">
-
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
 
 	<!-- Choose your prefered color scheme -->
@@ -61,14 +60,12 @@ else
 				<div class="row h-100">
 					<div class="col-sm-10 col-md-8 col-lg-6 mx-auto d-table h-100">
 						<div class="d-table-cell align-middle">
-
 							<div class="text-center mt-4">
 								<h1 class="h2">Selamat Datang!</h1>
 								<p class="lead">
 									Masuk ke Akun Anda
 								</p>
 							</div>
-
 							<div class="card">
 								<div class="card-body">
 									<div class="m-sm-4">
@@ -94,16 +91,13 @@ else
 									</div>
 								</div>
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</div>
 		</main>
 	</div>
-
 	<script src="docs/js/app.js"></script>
-
 </body>
 
 </html>
