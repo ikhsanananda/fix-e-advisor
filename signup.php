@@ -29,8 +29,8 @@ else
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
 
     <!-- Choose your prefered color scheme -->
-    <!-- <link href="docs/css/light.css" rel="stylesheet"> -->
-    <link href="docs/css/dark.css" rel="stylesheet">
+    <link href="docs/css/light.css" rel="stylesheet">
+    <!-- <link href="docs/css/dark.css" rel="stylesheet"> -->
 </head>
 
 <body data-theme="default" data-layout="fluid" data-sidebar-position="left" data-sidebar-behavior="sticky">
